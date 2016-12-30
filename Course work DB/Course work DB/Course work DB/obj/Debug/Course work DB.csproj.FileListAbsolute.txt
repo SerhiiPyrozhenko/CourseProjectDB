@@ -1,0 +1,73 @@
+h:\медиа с с\visual studio 2015\Projects\Course work DB\Course work DB\bin\Debug\Course work DB.exe.config
+h:\медиа с с\visual studio 2015\Projects\Course work DB\Course work DB\bin\Debug\Course work DB.exe
+h:\медиа с с\visual studio 2015\Projects\Course work DB\Course work DB\bin\Debug\Course work DB.pdb
+h:\медиа с с\visual studio 2015\Projects\Course work DB\Course work DB\obj\Debug\Course work DB.csprojResolveAssemblyReference.cache
+h:\медиа с с\visual studio 2015\Projects\Course work DB\Course work DB\obj\Debug\Course_work_DB.Properties.Resources.resources
+h:\медиа с с\visual studio 2015\Projects\Course work DB\Course work DB\obj\Debug\Course work DB.csproj.GenerateResource.Cache
+h:\медиа с с\visual studio 2015\Projects\Course work DB\Course work DB\obj\Debug\Course work DB.exe
+h:\медиа с с\visual studio 2015\Projects\Course work DB\Course work DB\obj\Debug\Course work DB.pdb
+h:\Медиа с С\Visual Studio 2015\Projects\Course work DB\Course work DB\bin\Debug\_Yacht_clubDataSet.Designer.cs
+h:\Медиа с С\Visual Studio 2015\Projects\Course work DB\Course work DB\bin\Debug\_Yacht_clubDataSet.xsc
+h:\Медиа с С\Visual Studio 2015\Projects\Course work DB\Course work DB\bin\Debug\_Yacht_clubDataSet.xsd
+h:\Медиа с С\Visual Studio 2015\Projects\Course work DB\Course work DB\bin\Debug\_Yacht_clubDataSet.xss
+h:\медиа с с\visual studio 2015\Projects\Course work DB\Course work DB\obj\Debug\Course_work_DB.EditYacht.resources
+h:\медиа с с\visual studio 2015\Projects\Course work DB\Course work DB\obj\Debug\Course_work_DB.MainForm.resources
+h:\медиа с с\visual studio 2015\Projects\Course work DB\Course work DB\bin\Debug\Yacht-club.mdf
+h:\медиа с с\visual studio 2015\Projects\Course work DB\Course work DB\bin\Debug\Yacht-club_log.ldf
+H:\Медиа с С\Visual Studio 2015\Projects\Course work DB\Course work DB\obj\Debug\Course_work_DB.Stistics.resources
+H:\Медиа с С\Visual Studio 2015\Projects\Course work DB\Course work DB\obj\Debug\Course_work_DB.Report.resources
+H:\Медиа с С\Visual Studio 2015\Projects\Course work DB\Course work DB\obj\Debug\Course work DB.csproj.ResolveComReference.cache
+H:\Медиа с С\Visual Studio 2015\Projects\Course work DB\Course work DB\bin\Debug\itextsharp.dll
+H:\Медиа с С\Visual Studio 2015\Projects\Course work DB\Course work DB\bin\Debug\itextsharp.pdfa.dll
+H:\Медиа с С\Visual Studio 2015\Projects\Course work DB\Course work DB\bin\Debug\itextsharp.xtra.dll
+H:\Медиа с С\Visual Studio 2015\Projects\Course work DB\Course work DB\bin\Debug\itextsharp.xml
+f:\Course work DB\Course work DB\bin\Debug\Course work DB.exe.config
+f:\Course work DB\Course work DB\obj\Debug\Course work DB.csproj.ResolveComReference.cache
+f:\Course work DB\Course work DB\obj\Debug\Course work DB.exe
+f:\Course work DB\Course work DB\obj\Debug\Course work DB.pdb
+f:\Course work DB\Course work DB\bin\Debug\_Yacht_clubDataSet.Designer.cs
+f:\Course work DB\Course work DB\bin\Debug\_Yacht_clubDataSet.xsc
+f:\Course work DB\Course work DB\bin\Debug\_Yacht_clubDataSet.xsd
+f:\Course work DB\Course work DB\bin\Debug\_Yacht_clubDataSet.xss
+f:\Course work DB\Course work DB\bin\Debug\Yacht-club.mdf
+f:\Course work DB\Course work DB\bin\Debug\Yacht-club_log.ldf
+f:\Course work DB\Course work DB\bin\Debug\Course work DB.exe
+f:\Course work DB\Course work DB\bin\Debug\Course work DB.pdb
+f:\Course work DB\Course work DB\bin\Debug\itextsharp.dll
+f:\Course work DB\Course work DB\bin\Debug\itextsharp.pdfa.dll
+f:\Course work DB\Course work DB\bin\Debug\itextsharp.xtra.dll
+f:\Course work DB\Course work DB\bin\Debug\itextsharp.xml
+f:\Course work DB\Course work DB\obj\Debug\Course work DB.csprojResolveAssemblyReference.cache
+f:\Course work DB\Course work DB\obj\Debug\Course_work_DB.MainForm.resources
+f:\Course work DB\Course work DB\obj\Debug\Course_work_DB.EditYacht.resources
+f:\Course work DB\Course work DB\obj\Debug\Course_work_DB.Properties.Resources.resources
+f:\Course work DB\Course work DB\obj\Debug\Course_work_DB.Report.resources
+f:\Course work DB\Course work DB\obj\Debug\Course_work_DB.Stistics.resources
+f:\Course work DB\Course work DB\obj\Debug\Course work DB.csproj.GenerateResource.Cache
+f:\Course work DB\Course work DB\obj\Debug\Course_work_DB.YachtOwnerEdit.resources
+f:\Course work DB\Course work DB\obj\Debug\Course_work_DB.YachtClubEdit.resources
+e:\Course work DB\Course work DB\bin\Debug\Course work DB.exe.config
+e:\Course work DB\Course work DB\obj\Debug\Course work DB.csproj.ResolveComReference.cache
+e:\Course work DB\Course work DB\obj\Debug\Course work DB.exe
+e:\Course work DB\Course work DB\obj\Debug\Course work DB.pdb
+e:\Course work DB\Course work DB\bin\Debug\_Yacht_clubDataSet.Designer.cs
+e:\Course work DB\Course work DB\bin\Debug\_Yacht_clubDataSet.xsc
+e:\Course work DB\Course work DB\bin\Debug\_Yacht_clubDataSet.xsd
+e:\Course work DB\Course work DB\bin\Debug\_Yacht_clubDataSet.xss
+e:\Course work DB\Course work DB\bin\Debug\Yacht-club.mdf
+e:\Course work DB\Course work DB\bin\Debug\Yacht-club_log.ldf
+e:\Course work DB\Course work DB\bin\Debug\Course work DB.exe
+e:\Course work DB\Course work DB\bin\Debug\Course work DB.pdb
+e:\Course work DB\Course work DB\bin\Debug\itextsharp.dll
+e:\Course work DB\Course work DB\bin\Debug\itextsharp.pdfa.dll
+e:\Course work DB\Course work DB\bin\Debug\itextsharp.xtra.dll
+e:\Course work DB\Course work DB\bin\Debug\itextsharp.xml
+e:\Course work DB\Course work DB\obj\Debug\Course work DB.csprojResolveAssemblyReference.cache
+e:\Course work DB\Course work DB\obj\Debug\Course_work_DB.MainForm.resources
+e:\Course work DB\Course work DB\obj\Debug\Course_work_DB.EditYacht.resources
+e:\Course work DB\Course work DB\obj\Debug\Course_work_DB.Properties.Resources.resources
+e:\Course work DB\Course work DB\obj\Debug\Course_work_DB.YachtClubEdit.resources
+e:\Course work DB\Course work DB\obj\Debug\Course_work_DB.YachtOwnerEdit.resources
+e:\Course work DB\Course work DB\obj\Debug\Course work DB.csproj.GenerateResource.Cache
+E:\Course work DB\Course work DB\obj\Debug\Course_work_DB.YachtClubOwnerEdit.resources
+E:\Course work DB\Course work DB\obj\Debug\Course_work_DB.Port.resources

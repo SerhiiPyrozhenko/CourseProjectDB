@@ -1,0 +1,26 @@
+F:\Course work DB\Course work DB\bin\Release\Course work DB.exe.config
+F:\Course work DB\Course work DB\obj\Release\Course work DB.csproj.ResolveComReference.cache
+e:\Course work DB\Course work DB\bin\Release\Course work DB.exe.config
+e:\Course work DB\Course work DB\obj\Release\Course work DB.csproj.ResolveComReference.cache
+e:\Course work DB\Course work DB\bin\Release\Yacht-club.mdf
+e:\Course work DB\Course work DB\bin\Release\Yacht-club_log.ldf
+e:\Course work DB\Course work DB\bin\Release\_Yacht_clubDataSet.Designer.cs
+e:\Course work DB\Course work DB\bin\Release\_Yacht_clubDataSet.xsc
+e:\Course work DB\Course work DB\bin\Release\_Yacht_clubDataSet.xsd
+e:\Course work DB\Course work DB\bin\Release\_Yacht_clubDataSet.xss
+e:\Course work DB\Course work DB\bin\Release\Course work DB.exe
+e:\Course work DB\Course work DB\bin\Release\Course work DB.pdb
+e:\Course work DB\Course work DB\bin\Release\itextsharp.dll
+e:\Course work DB\Course work DB\bin\Release\itextsharp.pdfa.dll
+e:\Course work DB\Course work DB\bin\Release\itextsharp.xtra.dll
+e:\Course work DB\Course work DB\bin\Release\itextsharp.xml
+e:\Course work DB\Course work DB\obj\Release\Course_work_DB.MainForm.resources
+e:\Course work DB\Course work DB\obj\Release\Course_work_DB.EditYacht.resources
+e:\Course work DB\Course work DB\obj\Release\Course_work_DB.Port.resources
+e:\Course work DB\Course work DB\obj\Release\Course_work_DB.Properties.Resources.resources
+e:\Course work DB\Course work DB\obj\Release\Course_work_DB.YachtClubEdit.resources
+e:\Course work DB\Course work DB\obj\Release\Course_work_DB.YachtClubOwnerEdit.resources
+e:\Course work DB\Course work DB\obj\Release\Course_work_DB.YachtOwnerEdit.resources
+e:\Course work DB\Course work DB\obj\Release\Course work DB.csproj.GenerateResource.Cache
+e:\Course work DB\Course work DB\obj\Release\Course work DB.exe
+e:\Course work DB\Course work DB\obj\Release\Course work DB.pdb
